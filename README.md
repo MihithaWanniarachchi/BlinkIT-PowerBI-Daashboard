@@ -37,7 +37,7 @@ The dashboard includes filters for:
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/blinkit-sales-dashboard.git
+   git clone https://github.com/MihithaWanniarachchi/BlinkIT-PowerBI-Dashboard.git
    ```
 2. Open the Power BI file (.pbix) to view the dashboard.
 
